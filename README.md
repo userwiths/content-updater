@@ -7,9 +7,6 @@ Content:
         3.Future.
         4.'Bout Me.
 
-!!!!! THE PROGRAM IS WRITEN IN BASH. WORKS ON LINUX. NOT WINDOWS. !!!!!
-
-
 1.Main Idea.
 
         -- Why Do I Wrote It.
