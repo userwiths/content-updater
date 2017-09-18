@@ -1,6 +1,3 @@
-# content-updater
-Content-Updater is a project started to test some ideas, and to use those ideas to make resource update easyer.
-
 Content:
         1.Main Idea.
                 -- Why I wrote it
@@ -9,6 +6,9 @@ Content:
         2.Means of Reallyzation.
         3.Future.
         4.'Bout Me.
+
+!!!!! THE PROGRAM IS WRITEN IN BASH. WORKS ON LINUX. NOT WINDOWS. !!!!!
+
 
 1.Main Idea.
 
